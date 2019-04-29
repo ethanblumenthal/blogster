@@ -1,2 +1,5 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+# Blogster
+Data caching with Redis
+Automated headless browser testing with Jest
+Continuous Integrations with TravisCI
+Scalable Image / File Upload with AWS S3
