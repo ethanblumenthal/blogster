@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "jest": {
+    "setupFilesAfterEnv": ["<rootDir>/tests/setup.js"],
     "verbose": true,
     "testURL": "http://localhost:3000/"
   },
